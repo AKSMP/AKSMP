@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  aksmp:
+    image: itzg/minecraft-server:${IMAGE_TAG:-java8}
+    volumes:
+    - ./data:/data
+    environment:
+      EULA: "true"
+      TYPE: FORGE 
+      VERSION: 1.7.10
+      FORGE_VERSION: 10.13.4.1614
+      MEMORY: "8G"
+      PACKWIZ_URL: https://raw.githubusercontent.com/AKSMP/AKSMP/main/pack.toml
+      OVERRIDE_SERVER_PROPERTIES: "true"
+      LEVEL_TYPE: "BIOMESOP"
+      ALLOW_FLIGHT: "true"
+      VIEW_DISTANCE: "6"
+    ports:
+      - "25565:25565"
+    restart: unless-stopped
