@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "0cb6ebfc1f6c749b0c43da0fa35f2e7467ec7ab7af7ebd741ae583b60e1d5ba0"
+hash = "44198347f3f097d10d97132c645bc2b89d03be237ad98a9cca1b583a5c118222"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "fe0e466df698b587b51ad5e3fbac014d75190e36302f4854b4e65e461c6a5767"
+hash = "ccb946230c1731a817e698a3548d2534f434b133f5d30204118d0d045e93b149"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "6b247e0b2a7859242ed289bb3b2987021269912c71c6bda52ebafa271277b81f"
+hash = "bcf2213af922145d17f1afe2f3a93c3d44739e63ed1a803d8e9714ebc25b52c7"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-font.pw.toml"
-hash = "317f48d5b1c4ec7cb0e949d7fa54eb0df8f13a5b11b0134524f29f6b272f123c"
+hash = "02afb996ab2d2c9d7c9f8bcbd66d2abd3835fb665467859d51765b79fc492ca5"
 metafile = true
 
 [[files]]
