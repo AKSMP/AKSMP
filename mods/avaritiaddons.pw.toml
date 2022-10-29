@@ -1,0 +1,13 @@
+name = "Avaritiaddons"
+filename = "Avaritiaddons-1.4b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b45ecb2d7258bd0893dd11285be73139d07be14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2502196
+project-id = 248873

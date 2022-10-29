@@ -1,0 +1,13 @@
+name = "QuantumStorage"
+filename = "QuantumStorage-1.7.10-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f049e3cd2d5e48aa050d48d5a4b00f8a1da2214c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2259534
+project-id = 235121

@@ -1,0 +1,13 @@
+name = "Flan's Mod Ultimate Stability Edition"
+filename = "Flan's Mod Ultimate-1.54.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b60a09ae3462eee0920139181de3a7926fcc43d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3784546
+project-id = 344089

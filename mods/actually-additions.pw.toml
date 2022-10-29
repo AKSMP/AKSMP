@@ -1,0 +1,13 @@
+name = "Actually Additions"
+filename = "ActuallyAdditions-1.7.10-r21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c35db666ed8c867d44eb630c72a19931ad3a99f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2274681
+project-id = 228404

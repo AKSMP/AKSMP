@@ -1,0 +1,13 @@
+name = "NotEnoughIDs"
+filename = "NotEnoughIDs-1.4.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "054f26e8206968ec1ee98625750ec83cd393e096"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308819
+project-id = 235107

@@ -1,0 +1,13 @@
+name = "ProjectE Advanced Alchemy (PEAA)"
+filename = "PEAA-1.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6721a2f4ea186f041ca0605a8998730fd9dda7b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2624993
+project-id = 304328

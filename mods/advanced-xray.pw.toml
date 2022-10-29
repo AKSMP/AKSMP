@@ -1,0 +1,13 @@
+name = "Advanced XRay (Forge Edition)"
+filename = "fgtXray-1.7.10-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a2d7647221e22966b377a74eca2fa7dd2932e58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2362622
+project-id = 256256
