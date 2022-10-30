@@ -69,10 +69,6 @@ file = "mods/CodeChickenCore-1.7.10-1.1.6.jar"
 hash = "33717bfe0c351c24b65ec4de9011d7602fdc959d6d34b18f6649098266da87cc"
 
 [[files]]
-file = "mods/ModsList.md"
-hash = "23f6699fc012d50c3233faa00277551772894c7535ed9deaf596220016b005b7"
-
-[[files]]
 file = "mods/SpongeMixins-1.5.0.jar"
 hash = "d6d302dd64a309217c10b42ef7d58961ce056f76987c45b896d4738578458f09"
 
