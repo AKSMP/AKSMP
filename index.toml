@@ -164,6 +164,10 @@ hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
 metafile = true
 
 [[files]]
+file = "mods/bugtorch-1.7.10-1.1.6.4-GTNH.jar"
+hash = "23b6b660000a216ba2b2c9e33df759374afcb16ab04722bb2ea1b529165ab680"
+
+[[files]]
 file = "mods/buildcraft-builders.pw.toml"
 hash = "bfe6f26573a59ca0f7e55b7fc1a392080c68622858fb0bc6bf93e9446b06ee1b"
 metafile = true
