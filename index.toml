@@ -25,6 +25,10 @@ file = "Flan/Ye+Olde-Content+Pack-1.7.10-4.10.0.jar"
 hash = "f8d4065588c0c7089161eb8ffb764ee28827196d57344d4a5061bf3eadf6bbf4"
 
 [[files]]
+file = "config/CompactMachines.cfg"
+hash = "518ac117fbbe5292d5a357b36dd644faeeb4f4c72e85b0c3fd3854dbc54298f5"
+
+[[files]]
 file = "config/ProjectE/ProjectE.cfg"
 hash = "611ffc1029ee671036aa7adf8b6d42410951f1c10fcf0d52a6d39f3514fe584b"
 
@@ -67,6 +71,10 @@ hash = "33717bfe0c351c24b65ec4de9011d7602fdc959d6d34b18f6649098266da87cc"
 [[files]]
 file = "mods/ModsList.md"
 hash = "23f6699fc012d50c3233faa00277551772894c7535ed9deaf596220016b005b7"
+
+[[files]]
+file = "mods/SpongeMixins-1.5.0.jar"
+hash = "d6d302dd64a309217c10b42ef7d58961ce056f76987c45b896d4738578458f09"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -523,11 +531,6 @@ metafile = true
 [[files]]
 file = "mods/snad.pw.toml"
 hash = "1b716620853d255d0859a0127b68a5c471e739f0ef2c11b60359495b31d95125"
-metafile = true
-
-[[files]]
-file = "mods/spongemixin1710.pw.toml"
-hash = "90cdcce64046e00e33ae5d598f657f59ea12aed80b9529d03a34474383589e62"
 metafile = true
 
 [[files]]
