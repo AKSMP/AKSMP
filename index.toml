@@ -526,6 +526,11 @@ hash = "1b716620853d255d0859a0127b68a5c471e739f0ef2c11b60359495b31d95125"
 metafile = true
 
 [[files]]
+file = "mods/spongemixin1710.pw.toml"
+hash = "90cdcce64046e00e33ae5d598f657f59ea12aed80b9529d03a34474383589e62"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
