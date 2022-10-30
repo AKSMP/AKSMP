@@ -99,9 +99,8 @@ hash = "dccc35405344ffb6c22fc7f9a0181be2270361314b63c52e75fa35a8e19493cc"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
-metafile = true
+file = "mods/appliedenergistics2-1.7.10-rv3-beta-116-GTNH-1-g8e52364.jar"
+hash = "234d406b20308f69f2e0caf356ef78384c4198f123ecfc72c19cbaa934f5e963"
 
 [[files]]
 file = "mods/aroma1997core.pw.toml"
