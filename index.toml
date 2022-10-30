@@ -286,11 +286,6 @@ hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
 metafile = true
 
 [[files]]
-file = "mods/gregtech6-unofficial.pw.toml"
-hash = "e95ec620da548a8a2ea76472e934c6f85f466e8f89c76e87d19e40ccf6245042"
-metafile = true
-
-[[files]]
 file = "mods/ic2/EJML-core-0.26.jar"
 hash = "ee7840eb553b850bdb32ed5be6194936f02f2cb2c9b915e4996312ec4a812588"
 
