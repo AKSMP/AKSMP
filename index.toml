@@ -29,6 +29,10 @@ file = "mods/1.7.10/CodeChickenLib-1.7.10-1.1.5.5.jar"
 hash = "06ab607dc62f1037d3e73d188e7a5a399b0dd76393b505c3183a7b42120d6a7c"
 
 [[files]]
+file = "mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+hash = "6ff759efc10f9ea0deabb4aed7c1f61408d9bb9bce278949544c0a613f7ae4c8"
+
+[[files]]
 file = "mods/CodeChickenCore-1.7.10-1.1.6.jar"
 hash = "33717bfe0c351c24b65ec4de9011d7602fdc959d6d34b18f6649098266da87cc"
 
@@ -259,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "ebf47c9a73c76fe73c392f4cb8a45d7799e95069eea4f37260cf5e2d128a9877"
-metafile = true
-
-[[files]]
-file = "mods/forge-multi-part.pw.toml"
-hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
 metafile = true
 
 [[files]]
