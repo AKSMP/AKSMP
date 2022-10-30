@@ -1,6 +1,6 @@
 name = "Advanced XRay (Forge Edition)"
 filename = "fgtXray-1.7.10-1.0.8.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-xray.pw.toml"
-hash = "511d1ef7d32722d72a6c8cd927ee027169232a0d5d46867426bcc4785ac4e8cf"
+hash = "6e07e64cb3789009c698568159ca2a67937f9ca14d0be70447e4a416a40d6ab9"
 metafile = true
 
 [[files]]
