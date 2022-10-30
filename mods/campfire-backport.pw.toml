@@ -1,0 +1,13 @@
+name = "Campfire Backport"
+filename = "campfirebackport-1.7.10-1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03ad43b37716e9a857313038da1ca594116bf69a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3947430
+project-id = 387444
