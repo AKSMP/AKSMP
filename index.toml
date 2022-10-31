@@ -326,11 +326,6 @@ hash = "a68938c0ce245b59f765de9534b5ef1e0882c2a0f58a4cf28ee791ea6a780174"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
-metafile = true
-
-[[files]]
 file = "mods/ic2/EJML-core-0.26.jar"
 hash = "ee7840eb553b850bdb32ed5be6194936f02f2cb2c9b915e4996312ec4a812588"
 
