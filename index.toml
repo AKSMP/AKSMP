@@ -57,6 +57,10 @@ file = "config/ProjectE/nbt_whitelist.cfg"
 hash = "0bd49772a7b60b2eeaf9e8c74289c8603fa80565a43d0877146fb6e10325a8d6"
 
 [[files]]
+file = "config/gravestone.cfg"
+hash = "66fc409e3950c22be9130a5923b91656295efc87da78a46da7738ea8266d3a1a"
+
+[[files]]
 file = "mods/1.7.10/CodeChickenLib-1.7.10-1.1.5.5.jar"
 hash = "06ab607dc62f1037d3e73d188e7a5a399b0dd76393b505c3183a7b42120d6a7c"
 
