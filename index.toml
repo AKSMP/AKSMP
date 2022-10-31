@@ -21,10 +21,6 @@ file = "Flan/WW2-Content+Pack-1.7.10-4.10.0.jar"
 hash = "5ab577a10edc490dc9d0bde19b3771295b70368f2143c78398471b4739a088b4"
 
 [[files]]
-file = "Flan/Ye+Olde-Content+Pack-1.7.10-4.10.0.jar"
-hash = "f8d4065588c0c7089161eb8ffb764ee28827196d57344d4a5061bf3eadf6bbf4"
-
-[[files]]
 file = "config/CompactMachines.cfg"
 hash = "518ac117fbbe5292d5a357b36dd644faeeb4f4c72e85b0c3fd3854dbc54298f5"
 
@@ -65,12 +61,24 @@ file = "mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
 hash = "6ff759efc10f9ea0deabb4aed7c1f61408d9bb9bce278949544c0a613f7ae4c8"
 
 [[files]]
+file = "mods/BetterQuesting-1.7.10-3.1.4-GTNH.jar"
+hash = "e5ee4b0e81becfe100c18e2a6eacff21cbe6ebfb632218354779fc0fb176ec67"
+
+[[files]]
+file = "mods/Botania-1.7.10-1.9.11-GTNH.jar"
+hash = "ada9ada2e9081447be20e86a6e594648bb45b4a727639342b0b98a10eaf04ef1"
+
+[[files]]
 file = "mods/CodeChickenCore-1.7.10-1.1.6.jar"
 hash = "33717bfe0c351c24b65ec4de9011d7602fdc959d6d34b18f6649098266da87cc"
 
 [[files]]
 file = "mods/SpongeMixins-1.5.0.jar"
 hash = "d6d302dd64a309217c10b42ef7d58961ce056f76987c45b896d4738578458f09"
+
+[[files]]
+file = "mods/TConstruct-1.7.10-1.9.7-GTNH.jar"
+hash = "dbfa37c48542e3ab2a1ac224a2d975e510f2421380cb1375940ee6c30bdc2f4f"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -147,6 +155,10 @@ hash = "17bb7f92e50ea0c82214bc2bf315f0ec4c19039e71e442afd9ac6313d489f400"
 metafile = true
 
 [[files]]
+file = "mods/bettercrashes-1.7.10-1.1.7-GTNH.jar"
+hash = "f852d364910a7f54b745fc19d45d796429ac5ce6dfd1754c0f5d7a8f4fd24c98"
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
@@ -198,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/chance-cubes.pw.toml"
 hash = "eb46cbdbaf9a91157164ffbaee885cb193d914bf3fe636ec7e1bd9449a365547"
+metafile = true
+
+[[files]]
+file = "mods/chest-transporter.pw.toml"
+hash = "4f40873fe15fd308876117a3ebf420d90c7cb34762cbf07e8c8d06b836192517"
 metafile = true
 
 [[files]]
@@ -326,12 +343,26 @@ hash = "a68938c0ce245b59f765de9534b5ef1e0882c2a0f58a4cf28ee791ea6a780174"
 metafile = true
 
 [[files]]
+file = "mods/glibys-voice-chat.pw.toml"
+hash = "73b730f2042d380dbb794833f5875fa17bfbbabcfd05d2ac80b9d1ed6c8bad7a"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-1.7.10-1.1.0.jar"
+hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
+
+[[files]]
 file = "mods/ic2/EJML-core-0.26.jar"
 hash = "ee7840eb553b850bdb32ed5be6194936f02f2cb2c9b915e4996312ec4a812588"
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
+metafile = true
+
+[[files]]
+file = "mods/icraft.pw.toml"
+hash = "16488396fe8e87c9c67effd337b8c8f1e87e49d17765279012c75ba485c74791"
 metafile = true
 
 [[files]]
@@ -372,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/littletiles.pw.toml"
 hash = "4b44fa7c07f722af89c38ed4fcd117b87b833481eb354a76979689dc2ec92c3b"
-metafile = true
-
-[[files]]
-file = "mods/lootbags.pw.toml"
-hash = "f3ccc3c56e873d680ab24bafb12022fe592e23c53491b8766905d63fdb82c377"
 metafile = true
 
 [[files]]
@@ -552,11 +578,6 @@ metafile = true
 [[files]]
 file = "mods/tic-tooltips.pw.toml"
 hash = "54dc4ec439b8204a9b997910f62f805a05e0754e7671bc0e3059b562a61c75c0"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "1f6caf1cab0746b0257bef0d6a04ffa695dc84b0f94e5989979b0ff0404fd6cf"
 metafile = true
 
 [[files]]

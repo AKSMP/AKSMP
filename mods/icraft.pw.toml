@@ -1,0 +1,13 @@
+name = "iCraft"
+filename = "iCraft-0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d92830ca29fb67f7fa69d2bf9507986747f0fa1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2270202
+project-id = 231195
