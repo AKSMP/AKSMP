@@ -1,0 +1,13 @@
+name = "Bansōkō [絆創膏] - Mod Patcher"
+filename = "bansoukou-1.0-MC1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "105eb4516d12001a6a48e45c75f749f36239431a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3233037
+project-id = 434344

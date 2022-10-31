@@ -21,6 +21,10 @@ file = "Flan/WW2-Content+Pack-1.7.10-4.10.0.jar"
 hash = "5ab577a10edc490dc9d0bde19b3771295b70368f2143c78398471b4739a088b4"
 
 [[files]]
+file = "bansoukou/netherlicious-3.2.3/DelirusCrux/Netherlicious/Client/Utility/GlassesLavaHandler.class"
+hash = "f074b357c266b1d205957418a76b0ebf5d5769365acf3649ea2cf0639d4c81e2"
+
+[[files]]
 file = "config/CompactMachines.cfg"
 hash = "518ac117fbbe5292d5a357b36dd644faeeb4f4c72e85b0c3fd3854dbc54298f5"
 
@@ -140,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/avaritiaddons.pw.toml"
 hash = "bc36a8ff09cbc284b5d0ec4de1c933bf3ba283d2b5f22b5bd070a870974d6283"
+metafile = true
+
+[[files]]
+file = "mods/bansoko.pw.toml"
+hash = "ebea62a7b7aff0d0298d0e1e8cd8dbf1dcd4446f311d7663c7f86034344b1c81"
 metafile = true
 
 [[files]]
