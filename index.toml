@@ -25,6 +25,10 @@ file = "config/CompactMachines.cfg"
 hash = "518ac117fbbe5292d5a357b36dd644faeeb4f4c72e85b0c3fd3854dbc54298f5"
 
 [[files]]
+file = "config/OpenBlocks.cfg"
+hash = "e0abf6f112d2a2fee96e6b85fb5515df6352123baf4fdf24867fae0f64f69417"
+
+[[files]]
 file = "config/ProjectE/ProjectE.cfg"
 hash = "611ffc1029ee671036aa7adf8b6d42410951f1c10fcf0d52a6d39f3514fe584b"
 
@@ -42,7 +46,7 @@ hash = "00ccc428c1eb147ca3c0f0f34dc3819c359cd571ab85ab06dab2b8e75d468d9d"
 
 [[files]]
 file = "config/ProjectE/custom_emc.cfg"
-hash = "9a965b7551223d64cc10ccd18e1f3b2149e68e843002f1d63b8890d2eee68d5a"
+hash = "b04f817c7635bc394f9505ddee03f5a83b7f569e45e43203607ce819ceaf6ad5"
 
 [[files]]
 file = "config/ProjectE/mapping.cfg"
