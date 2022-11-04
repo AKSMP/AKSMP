@@ -5,8 +5,8 @@ file = "Flan/Dr_prof_Luigi%27s+Pack+1.12.2-5.5.2-2.1.1.jar"
 hash = "9ab0d4dc50e52c76057a985abb1d6077a4491e35493b63d3d5819116462264b4"
 
 [[files]]
-file = "Flan/Milox117's_Cars_Package.zip"
-hash = "c212c90d578631aac5518da6b63b31e10281a36affa8c35ea326d5aeea8f5d63"
+file = "Flan/Milox-117s Car Package 5 (Remaster)(1).jar"
+hash = "941a815c5999d687881f37cf949a0d0561a6f311c33cc2e25160b009fbde391f"
 
 [[files]]
 file = "Flan/Modern+Warfare-Content+Pack-1.7.10-4.10.0.jar"
@@ -15,6 +15,10 @@ hash = "9e3e83f3412526c1e6fc594beffd1301f00f7f53d19c30c143032d469936ec1c"
 [[files]]
 file = "Flan/Simple+Parts-Content+Pack-1.7.10-4.10.0.jar"
 hash = "9a4bd76537ca595bb222c8cf13c9f7b91ef1d04b465a7eebe9cfa6e9ae4a1fe1"
+
+[[files]]
+file = "Flan/Spino's Vehicles v4.1.zip"
+hash = "207a08fac8d048b0b4f34756151e2c21bff707b78ab67f099fa7522a233946a1"
 
 [[files]]
 file = "Flan/WW2-Content+Pack-1.7.10-4.10.0.jar"
@@ -46,7 +50,7 @@ hash = "00ccc428c1eb147ca3c0f0f34dc3819c359cd571ab85ab06dab2b8e75d468d9d"
 
 [[files]]
 file = "config/ProjectE/custom_emc.cfg"
-hash = "b04f817c7635bc394f9505ddee03f5a83b7f569e45e43203607ce819ceaf6ad5"
+hash = "6a37fa6ed50ff852e2a3e8ffcd6d931e9c4d01d5ba32c54eb85c7b583b872512"
 
 [[files]]
 file = "config/ProjectE/mapping.cfg"
@@ -1179,5 +1183,5 @@ hash = "76579e9ba7909dbbe415007732eafb6fb4737b0d5b7ecb6b25042987bcfb07fd"
 
 [[files]]
 file = "resourcepacks/modernity.pw.toml"
-hash = "aa04029cc0a659b2ffa0876502fc42854c7710fcbed31069d4c43735be4734d3"
+hash = "1210f3084b111125589039977c54f131556ceb7ea87d3db5b1dacfc06e7c07be"
 metafile = true
