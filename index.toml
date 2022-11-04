@@ -636,3 +636,548 @@ metafile = true
 file = "mods/wireless-crafting-terminal.pw.toml"
 hash = "57b62f52d46f2d62d954c9f07c775c2d5eadcd40803966c417a80af66fdbae23"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/default.png"
+hash = "9b9680713f5e12ede3ac6c6ba01ffd800d142312f188b6120abd934e253436ae"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/fluidBlue.png"
+hash = "614c5f658476ebae5dd44d865d14653d2230310c05cdd02e9c83a3331a6a36c3"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/fluidWhite.png"
+hash = "7eb5b30b939ed9996d9d3b5f2e84ec730cb30cc5133e91d4c36e75671a3c7c33"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/itemGreen.png"
+hash = "40373fda1210b4ed1267135fc15887b015fa8431030bc5a9548e40561202597b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/itemRed.png"
+hash = "495a489dc70871197d0fb31eaaf4372d0fd1f1a49a00a828e860a74345d71379"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/common/open.png"
+hash = "65e7d94be3327820b93d39a72e6bb19e323e8581eb4ae3e7f727d1905ea9783e"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.fuelColumn.flowing.png"
+hash = "0194ff87b5bae212c733f7e1e486e4b313a646694ceef6416de97c1933babec0"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.fuelColumn.flowing.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.fuelColumn.still.png"
+hash = "24277a68c656110cf65e91adecdd2fe5390a2960cd60ff1d28730cedcfb48d2a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.fuelColumn.still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.steam.flowing.png"
+hash = "53b55687a25bc1bd06cc3311eb4b293cec505771072883bf6ae583cd3ed5363d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.steam.flowing.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.steam.still.png"
+hash = "99718389778db366898f780f7f32d832be8965b54508fb08853cae4d30555f1f"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fluid.steam.still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fuelRod.end.png"
+hash = "e518feb30ba7aa1dc3690e97f342d6dcb8bcf29d1fc0dc43e74267434cc1f823"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/fuelRod.side.png"
+hash = "302ad1702c214abd63ba5d34c00000a1b90650aca13717f5e345c1cd3385fd67"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/controlRod.png"
+hash = "4107360a3fa87a457bf96e4f29311047165071c67f375b587ff6d380f5c51990"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/energyOutput.png"
+hash = "b30adb824b42dac09afbbd227e306ff7dd718799bcc37a2b77a10b72e7e25c60"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/energyStored.png"
+hash = "d92b3da1b64c4212d8f45ba2fb13a8adac369f16a47adb35117b93d422fd004b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/flowRate.png"
+hash = "f147a27d10d3a4b1e3ba09a0e7f76daff6ad993e1c233a2536452f75aed7fff5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/fuelUsageRate.png"
+hash = "8d43fe075313821110db5ec11887ea69fcd06da6fefb70ef8dfe0e30e2b405ad"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/reactivity.png"
+hash = "b9a6387f9af7814b76aac56d17ad99fbd4287c796cc7a907d30fd61db9ff6669"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/rotorEfficiency.png"
+hash = "6cb393ed297f20cc9b06f184ec49f9f4fb5511d1cdcd9f2ef34d3cb266330555"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/rpm.png"
+hash = "9862b6a5d7229030798450e2974fbb5bffdcfe35a0f1012fd586e6cc9f7e6864"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/sprite_03.png"
+hash = "f6855e97ac0f3c9bf3ff2b3b4e52b15febe0fdbaefe6e38a8cddcd2f34f9fdc8"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/guiIcons/temperature.png"
+hash = "702149eeb104982959556e0e98c18fa241010d0815eb31309aad74618aa82e35"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/oreYellorite.png"
+hash = "62d7b0aef36e59b6ab56d34ff90666cb593eed5b838f85702f79e871b7e75b35"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.cyaniteReprocessor.active.png"
+hash = "f10f2af7938ef31fda5f221ac1862c7949a9c897d9680009bc53777ac70ecc4f"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.cyaniteReprocessor.active.png.mcmeta"
+hash = "19f7cd7d75bf392a0240a8ab05b800acc9a6ca5e0044ea25b0cbce5fc2d734bc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.cyaniteReprocessor.png"
+hash = "e3dbbcdb2651e0571b34f608765593f5043c36929d552cdf150be56ca854176b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.heatGenerator.active.png"
+hash = "ef84b791af6b270d4238c5e659d525e4f508c1ab7ceef13298b3c94e93a96ecb"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.heatGenerator.active.png.mcmeta"
+hash = "19f7cd7d75bf392a0240a8ab05b800acc9a6ca5e0044ea25b0cbce5fc2d734bc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.heatGenerator.png"
+hash = "33b47777859ddf82eba6437244246f5ed5de7bfda0043cbbc1a6233c3f611a3b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockBRDevice.png"
+hash = "c1d29a0a5cf81f6167dac0040e057a9f88ef7af1fec23b887b630ff67d65be15"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.accessPort.inlet.png"
+hash = "70e37b6fb96b4c6b2265d1b86c3248634dc874ea30bbfcc57c712ad1d4f76285"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.accessPort.outlet.png"
+hash = "588ef1f110f8eca0b27942fc9c01650877c413aa04c53f4e09c3cb10146f7d87"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.corner.png"
+hash = "de421f3ed7db02d8791262eb8febf56a02abfa49af56a124a8310660fb35d123"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.default.png"
+hash = "518b4760b28470b0db97bfc9ef32a6c64d03ac7867c7a5f8bab14b2e28c48a90"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.eastwest.png"
+hash = "e1221a1ab47c9b3be0e61a036aa3a1b5e2e5883b6c064003a61dea46c876114b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.face.png"
+hash = "4fc7e678bad12adf0815170b2d51054921081ff7b46a4668d3052c12c2d73b26"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.northsouth.png"
+hash = "8f80451eeba6b046f13163d1681fbc3ad146658dbe2f98889e19a8ac6c3028f8"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.casing.vertical.png"
+hash = "8f80451eeba6b046f13163d1681fbc3ad146658dbe2f98889e19a8ac6c3028f8"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.computerPort.default.png"
+hash = "cb4709e4f9255357273f869ff9e09d477da3395bb492234adb9dba15021944c7"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controlRod.top.png"
+hash = "6a3d7b3c571b6f0ce6a7c1adb6b862c71a7ef4b149d511fc2a59b2fc4dc4f1a5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controller.active.png"
+hash = "805f79fb910ade079990623e38c3f9f8344ad28fc8e6d080547b21b3399763fd"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controller.active.png.mcmeta"
+hash = "390cf5d036eea4bf228d0829aae89db773ff73b6b73facb7f410ca6bce0c1f67"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controller.idle.png"
+hash = "80d29d3074d3a8213b5ea5ec1945d7e2a4f3ab0e0ebe111fae5375a7831a65ea"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controller.idle.png.mcmeta"
+hash = "87f2de7e10926e8f37c6d750b8b22bac4a673685640ec897323ec145cc136abe"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.controller.off.png"
+hash = "8e0b67a520b88498722f5a3d3c30f92fe0e6eb7118a338716b74cc438f57617d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.coolantPort.inlet.png"
+hash = "4d349d2f64369427d27d5861279684c9e55e477b94992974ad97277550a15c6d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.coolantPort.outlet.png"
+hash = "7bc916e857a8224beac4855737b200e792696555ff5299703cd15c5b653aa023"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.png"
+hash = "518b4760b28470b0db97bfc9ef32a6c64d03ac7867c7a5f8bab14b2e28c48a90"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.powerTap.connected.png"
+hash = "c7f1a4c5c7272a3898ad5ab264df0ab3e255d2a4afa1a6d0515c6b55406da450"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorPart.powerTap.disconnected.png"
+hash = "d298a08d0d65d4077c459d00ef13a79921ff48857cf60dc4a6152314609098cf"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorRedstonePort.lit.png"
+hash = "8a843e0085b63d3e51262ddda1fbd792989ffec8a6e7d9f9c0d67af42370c809"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockReactorRedstonePort.unlit.png"
+hash = "97431cb47e3e8174ba16938b6d564ef2c3feb531db79506de14cb6875ab8c95e"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.bearing.png"
+hash = "88634e81428aefc4f3b15f9cbe6852c58454958ab7dc425c3a20f67ac7f4cbd4"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.computerPort.png"
+hash = "5ed68e270a587ef3a04c2a50dd4b73216f5aa630cf686037c0d5f7481bd076f5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.controller.active.png"
+hash = "d5b8aafd4f98405a19ad0bc9e76a66a702462d402fb54f84c5cc0a03d99e66f4"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.controller.active.png.mcmeta"
+hash = "390cf5d036eea4bf228d0829aae89db773ff73b6b73facb7f410ca6bce0c1f67"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.controller.idle.png"
+hash = "9743a386a5148d662fb91b0d0681b7fcba91e2318119ad9b1095daa73d65f5ee"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.controller.idle.png.mcmeta"
+hash = "87f2de7e10926e8f37c6d750b8b22bac4a673685640ec897323ec145cc136abe"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.controller.png"
+hash = "d0b484225c84e60e5c2c94b0c2eec2e7191d850e475e7000eccdeb843f35a5db"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.fluidPort.outlet.png"
+hash = "862263efe7cdaf8b3b3e16489772aa222aeb4fe50b50aac226ef9a7a702ae855"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.fluidPort.png"
+hash = "8bd1537a568f4f0a891c7be9061819a06a7639653d96f2657cc4d7f70c47b418"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.corner.png"
+hash = "562daa0cde05a4afe58230d9370a9ae3c3e119ce1552bb81b4646f25bbbc53f5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.edge.0.png"
+hash = "9b76269684c3eb4fe71b7d42e7f862045c254ce30a2b9f66f407373c399890dd"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.edge.1.png"
+hash = "ece84976792b689932cc8ff32f79ff5f85328c47b23dd142d21c4c5b39ee428e"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.edge.2.png"
+hash = "3006ed5a59c4b74ed548f308cca96194433932d9980945cf89868fb4b5124440"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.edge.3.png"
+hash = "b1561ffbc787bae22ac3a12563eb5d9ecf3e903bfd00154d5b1765b413f9571a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.face.png"
+hash = "de45e919f1e8528d04caf01b43b7b07e39be2a5231f2282ee9f9911b83a2b5a1"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.housing.png"
+hash = "d170710cd270fae04c5b663e20494730ae655869d76856485d7939cc6a6ac657"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.powerTap.connected.png"
+hash = "80ff62af4062c5aec532b886eace99eeca2225bd1cd3a21df975feacfa87c0ea"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbinePart.powerTap.png"
+hash = "c783db37fa685d2e2cb48d76d409036f4a3f49736f95bf7185e31249108d1d1f"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbineRotorPart.blade.png"
+hash = "a5dcdd630b6451edb6a648cacdff8a28a973d2a0fd0a8680ea86db735a606c2f"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbineRotorPart.rotor.connector.png"
+hash = "c9d2f162e78ad0b4cba7e0832e0d135ba9fa3e318943f602b12eec6d5b38eb67"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.blockTurbineRotorPart.rotor.png"
+hash = "3f48d854c8a71e8328b5af6f449cbb6afa235976a15a8a4c43fd139e422114d4"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.brMetal.blockBlutonium.png"
+hash = "da4b9094f371600ba3e9eee6062be5dd229570f1e3a13cbd4a1ffb50d4ab67c5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.brMetal.blockCyanite.png"
+hash = "ad6a3bab3303b8741c421419b247ffcdce8ef0e4fff08ebb3a092ee51f3cb6a6"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.brMetal.blockGraphite.png"
+hash = "79397d16663866fcf294846eaafe3ab154f68f68b1700485d04e9e9592f5373c"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.brMetal.blockLudicrite.png"
+hash = "bd830039ebb0b190b840d51441f3f568f3e1adaa3ad5327de93facab3f4349a2"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.brMetal.blockYellorium.png"
+hash = "bd822e80ed38bed33ffa7a92f21ffdee6c0498288b516d7e0146574e5978b876"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.cyanite.flowing.png"
+hash = "ce8e5760e7022621da80002207f427a733484232db3a68de94dab080c2f1d865"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.cyanite.flowing.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.cyanite.still.png"
+hash = "a060ce9bc6b9cecf3b1f03cc6ab5ad063d4c4c6b7a90b974b9801b614527f128"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.cyanite.still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.yellorium.flowing.png"
+hash = "dfcf93f2ab0a7dd40be1c991894b8c88061a109600a74c0bba16b24895c72e4c"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.yellorium.flowing.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.yellorium.still.png"
+hash = "78e9305487f28d8b4e0167b1c4b3bc54a5be7765386ec32e0b75dcc5f8c181c9"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.fluid.yellorium.still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.0.png"
+hash = "b4b7bbba7c51de2be661ea2a649de4d5018253622d213f381e456be41d8445b2"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.1.png"
+hash = "3db59866c81cb11ac5941f61e06e3468389e00f19643ef8e9136349e5f475df3"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.10.png"
+hash = "a44d832e7cc78b927042be47fc34420af60ede63f3118dd8c260b669f97d3037"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.11.png"
+hash = "d18ec1ae9fff4f2aefc5c305c34b95083d93d584f78142fdd20d7d1f11a59113"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.12.png"
+hash = "31b644d8080d1ea250a2b5f059b6ac63388605a0771a0eb70ae62673241b14fc"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.13.png"
+hash = "6f71cdf8ceb04cee4e1c95caf9defef120f3c6b37c8505989d6f919031218dc1"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.14.png"
+hash = "5638b082331eba1c541f65e0fc7fc6ade1b75c564d3ad17ff182e1d6d64505d5"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.2.png"
+hash = "b8031fe356970a3f4222f13af68745f284bf1f10af6e309c84d3991a642bf53b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.3.png"
+hash = "83ed4f47a73625e44e43c74b0558204317f9ea13ecf9a53a762315be5658ba4a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.4.png"
+hash = "120a38cc223ec7bdb6d586e625a42bd5da3aa1361bbef90ee92a4ab9448b38aa"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.5.png"
+hash = "04337a0a6ab5b7a6fc18ab435dbcd2abd0273921efb9f34bfbddc9012a34b6ba"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.6.png"
+hash = "459da2788c6f287880665ff1292736cd2e3e91405d6da68f945cf482e478f67a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.7.png"
+hash = "41016122560d625d88499bfe011309798fad205b67b6419fbec7eb298648ba0b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.8.png"
+hash = "3c375e49563d377c569e376916fb36560bf0c796bd777002f0e136f26883867a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.reactor.9.png"
+hash = "36d58bb35e849ca426f7d31a0fdd09288fa4a4cfb0f8bac21ec2fe3868aa690b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.transparent.png"
+hash = "a8b712ca80d98423012f7ae760d98a83f5a6c581c62a8e5bceb9b5712a7a10ad"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.0.png"
+hash = "4a6dcd28acf565397b44c1028078cc1f6962f3d760170424b573eb941e1d357a"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.1.png"
+hash = "b52e868c0b95cd002d5af449c7462095bf8f63219616357f2c5877d0a2253ebf"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.10.png"
+hash = "802734430b709cddd0ce9854ab8d37295a085a1feb9b3ff0132429c8b4c274d1"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.11.png"
+hash = "3efcd621346f955c42ac00fa720a856af0f2dc36c8795b56ad5f5d0233629bd4"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.12.png"
+hash = "568d3619edf6eff56dff4bb252b02b738fac3e259099ec4f0cfb5a3405302878"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.13.png"
+hash = "1c8cfef7de356b805aa75a281ca7d18528bddd51a5e00d8f594b3cddc686c9e3"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.14.png"
+hash = "adfd958147012d9d5a71b6d432ff4222b1af732f3934b7991d7064e67fee89a8"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.2.png"
+hash = "47c209d4a9b871b4f3c5228f078c1647f1da56a96c473e57405c73b3da72c458"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.3.png"
+hash = "871a1f9597580bef86c8a0b589458253bfebc29b2165ffcb6665bb100b7a1a44"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.4.png"
+hash = "555234f6465a9408d1e6f64328aba61802048893279ae88c244153f48980c584"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.5.png"
+hash = "0ffa160d2b07400c4adf8cb2a23bf80249b3dba75db99598571b1a2c949908ed"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.6.png"
+hash = "638e712fce30f42b1b77141e6dea9bbe2365571826b9c8320189e8ca3ac12491"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.7.png"
+hash = "463fdc8f2afcecffdd62eb63668d934e9b95c98351b517694d2d3ff6e4e9fff6"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.8.png"
+hash = "15db1dade4d31b4084d70f973df0d970b47186e1703882e7585e906333b42cc9"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/blocks/tile.multiblockGlass.turbine.9.png"
+hash = "28e8d84f8737401c6736120716c9ff419a4aad5cf2b4ffe0d6bee10fbb472f62"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/gui/ReactorController.png"
+hash = "295cf3d02ced9edae330934d4944cd78bab48f839945236358d5aad6837b1f55"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/dustBlutonium.png"
+hash = "439eb2254dd63761f354ccfc023866865bb03092e94ac5b4cb23d2630a592b04"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/dustCyanite.png"
+hash = "d973ebb418638ede84d1e2e4676d9af00679290bfbcba09e2c0650fa6602a388"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/dustGraphite.png"
+hash = "a81ba4adfa498a21988aa749307e730941b42b93eb24823c71bbe193d71c521d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/dustLudicrite.png"
+hash = "1c889ceebc4cc0e5cd3a4b619ed37b90a8055b9dd0b6c2748aec9e8ebd867d47"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/dustYellorium.png"
+hash = "6f8b1db58d403b3437c82898e0ef0592c9ba423c634eac53fdc3a3232f5960ad"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/ingotBlutonium.png"
+hash = "aace6012f935b1b3aa6937dc199aeb718fd248d5d88ae9bd546c53e916318d6b"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/ingotCyanite.png"
+hash = "67a9ab33414c7ac0099ae283506cc6ad3bb61d75730ef73b2b16a97c2e939a81"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/ingotGraphite.png"
+hash = "ecd955c78c20449c241e006465d5aceaaaf4042490ab163ecef98f2e62586a6d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/ingotLudicrite.png"
+hash = "cea7886a76adeedb93545988798162016326abd08d88c1c8c67a241983285143"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/ingotYellorium.png"
+hash = "80b1f6c99db8aae1908e59f5257de264bc9a533a3d06d2db3c050e706bec0ba2"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/item.bucket.cyanite.png"
+hash = "a218460859ee6a89c40251bf2159904cd9995aa12934baf31c22e7777b7f412d"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/assets/bigreactors/textures/items/item.bucket.yellorium.png"
+hash = "a1d3ecaf1fd0a3378eabe6a181fdcdd008f04e4c1a28974970174978129bda19"
+
+[[files]]
+file = "resourcepacks/Project-Modernize-main/1.7.10/Project Modernize - Big Reactors/pack.mcmeta"
+hash = "76579e9ba7909dbbe415007732eafb6fb4737b0d5b7ecb6b25042987bcfb07fd"
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+hash = "aa04029cc0a659b2ffa0876502fc42854c7710fcbed31069d4c43735be4734d3"
+metafile = true
